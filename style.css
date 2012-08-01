@@ -1,0 +1,21 @@
+/*
+Theme Name:     IFBook-CommentPressTheme-f2ec26f Child
+Description:    Child theme for the IFBook-CommentPressTheme-f2ec26f theme 
+Author:         Luis Mauricio
+Author URI:     http://twitter.com/lmjr
+Template:       IFBook-CommentPressTheme-f2ec26f
+Version:        0.1.0
+*/
+
+@import url("../IFBook-CommentPressTheme-f2ec26f/style.css");
+
+a#btn_twitter
+{
+	width: 33px;
+	background: transparent url(style/images/buttons/twitter.png);
+}
+a#btn_rss
+{
+	width: 33px;
+	background: transparent url(style/images/buttons/rss.png);
+}
